@@ -1,0 +1,2 @@
+python DD.py
+pause
